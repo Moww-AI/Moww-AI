@@ -9,7 +9,7 @@ I'm currently taking [Andrew Ng's Machine Learning Specialization](https://www.c
 
 ## 🧠 Featured Projects
 
-### 🖊️ [MNIST Digit Recognizer](mnist-digit-recognizer.ipynb)
+### 🖊️ [MNIST Digit Recognizer](https://github.com/Moww-AI/mnist-digit-recognizer.ipynb/blob/main/mnist-digit-recognizer.ipynb)
 > A neural network that classifies handwritten digits from the MNIST dataset with over 97% accuracy.
 
 - 🛠️ TensorFlow, Keras
