@@ -1,9 +1,37 @@
 - 👋 Hi, I’m @Moww-AI.
-- 👀 I’m interested in Machine Learning and AI.
-- 🌱 I’m currently learning Machine Learning Specialization.
-- 💞️ I’m looking to collaborate on Machine Learning and AI projects.
-- 📫 How to reach me: mahmoud.ayache@yahoo.com
-- 😄 Pronouns: Moww
+# 👨‍💻 Mahmoud's AI & Machine Learning Portfolio
+
+Hey there! I'm Mahmoud, an aspiring AI/ML engineer passionate about building intelligent systems and working remotely from anywhere in the world 🌍✈️
+
+I'm currently taking [Andrew Ng's Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) and sharing my projects as I learn.
+
+---
+
+## 🧠 Featured Projects
+
+### 🖊️ [MNIST Digit Recognizer](./mnist-digit-recognizer.ipynb)
+> A neural network that classifies handwritten digits from the MNIST dataset with over 97% accuracy.
+
+- 🛠️ TensorFlow, Keras
+- 📊 Accuracy Visualization
+- 🧪 Tested on unseen data
+
+---
+
+## 🌱 More Projects Coming Soon...
+- Emotion Detection from Text
+- House Price Predictor
+- AI-Powered Chatbot
+
+Stay tuned!
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-el-ayache-391383159/)
+- [GitHub](https://github.com/Moww-AI)
+
+
 - ⚡ Fun fact: I sell perfumes in my free time, and i play Dota 2 and Pro CS2 :) 
 
 <!---
